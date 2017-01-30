@@ -1,11 +1,14 @@
 Projet MyFirstApp :
-	- Cr�ation d'un premier projet
-	- Cr�ation d'un bouton + EditText + TextView + photo
+	- Création d'un premier projet
+	- Création d'un bouton + EditText + TextView + photo
+Observation (Romain) : présence de tous les éléments demandé
 
 Projet GridView :
-	- Cr�ation d'une gallery avec plusieurs photo
-	- Cr�ation d'un NumberPicker
-	- Cr�ation d'une actionbar
+	- Création d'une gallery avec plusieurs photo
+	- Création d'un NumberPicker
+	- Création d'une actionbar
+Observation (Romain) : nécessité de changer le fichier manifest pour changer d'ativity
 
 Projet ActionBar
-	- Cr�ation d'un projet avec import d'un sample
+	- Création d'un projet avec import d'un sample
+Observation (Romain) : ne se lance pas
