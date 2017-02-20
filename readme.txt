@@ -1,3 +1,5 @@
+Projet de DEJOUX Jordan
+
 Projet MyFirstApp :
 	- Création d'un premier projet
 	- Création d'un bouton + EditText + TextView + photo
